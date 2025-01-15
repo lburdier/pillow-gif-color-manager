@@ -86,7 +86,7 @@ Ce script permet de modifier et d'organiser vos fichiers GIF en les classant par
 
 ### Étape 1 : Configurer les chemins des dossiers
 1. **Préparer les dossiers** :
-   - Placez vos GIFs originaux dans le dossier spécifié par `base_input_folder` (par exemple : `C:\Users\Lucas\Downloads\LUCAS25_copy\icones`).
+   - Placez vos GIFs originaux dans le dossier spécifié par `base_input_folder` (par exemple : `C:\Users\username\GIFs_initiaux`).
    - Assurez-vous que le dossier de sortie spécifié dans `base_output_folder` existe ou sera créé automatiquement.
 
 2. **Modifier les variables dans le script** :
